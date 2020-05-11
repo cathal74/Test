@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93d08052-fb3c-411f-a2c6-b74f39e3dfb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YjGU6pF7ss0MXdPF6fCwRg0Ae3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.ie.gmit in Students">
+    <configuration name="StudentsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Students" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.gmit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.gmit" />
+      <option name="MAIN_CLASS_NAME" value="ie.gmit.StudentsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ie.gmit in Students" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Students" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.gmit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ie.gmit" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ie.gmit in Students" />
+        <item itemvalue="JUnit.StudentsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d08052-fb3c-411f-a2c6-b74f39e3dfb1" name="Default Changelist" comment="" />
+      <created>1583448602503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583448602503</updated>
+      <workItem from="1583448608508" duration="9767000" />
+      <workItem from="1585229555228" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1583448692010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583448692010" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1583450424205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583450424205" />
+    <state x="933" y="143" key="FileChooserDialogImpl" timestamp="1583490943195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="933" y="143" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583490943195" />
+    <state width="723" height="210" key="GridCell.Tab.0.bottom" timestamp="1583492574174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583492574174" />
+    <state width="723" height="210" key="GridCell.Tab.0.center" timestamp="1583492574174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583492574174" />
+    <state width="723" height="210" key="GridCell.Tab.0.left" timestamp="1583492574174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583492574174" />
+    <state width="723" height="210" key="GridCell.Tab.0.right" timestamp="1583492574174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583492574174" />
+    <state x="418" y="218" key="new project wizard" timestamp="1583491154026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="218" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583491154026" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583453041044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583453041044" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Students$ie_gmit_in_Students.ic" NAME="ie.gmit in Students Coverage Results" MODIFIED="1583490515122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ie.gmit.*</FILTER>
+    </SUITE>
+  </component>
+</project>
